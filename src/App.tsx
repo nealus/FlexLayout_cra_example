@@ -1,5 +1,4 @@
-import {Layout, Model, TabNode} from 'flexlayout-react';
-import { IJsonModel } from 'flexlayout-react/declarations/model/IJsonModel';
+import {Layout, Model, TabNode, IJsonModel} from 'flexlayout-react';
 import './App.css';
 import 'flexlayout-react/style/light.css';
 
