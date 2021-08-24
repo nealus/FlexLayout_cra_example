@@ -5083,10 +5083,10 @@ flatten@^1.0.2:
   resolved "https://registry.yarnpkg.com/flatten/-/flatten-1.0.3.tgz#c1283ac9f27b368abc1e36d1ff7b04501a30356b"
   integrity sha512-dVsPA/UwQ8+2uoFe5GHtiBMu48dWLTdsuEd7CKGlZlD78r1TTWBvDuFaFGKCo/ZfEr95Uk56vZoX86OsHkUeIg==
 
-flexlayout-react@0.5.9:
-  version "0.5.9"
-  resolved "https://registry.yarnpkg.com/flexlayout-react/-/flexlayout-react-0.5.9.tgz#e51b6248a422aa4fcde09db19f354692222846bf"
-  integrity sha512-ssKabaWtE0QeQm/L195hdeksiGOs9Hr28EXh5KP2I860gs+4HamO/qoaE7uqndipSPYEGP4KqHDd2lEYWg7Klg==
+flexlayout-react@0.5.13:
+  version "0.5.13"
+  resolved "https://registry.yarnpkg.com/flexlayout-react/-/flexlayout-react-0.5.13.tgz#4bf9e9245f04dd21b536fc14a0700d5be1f6395b"
+  integrity sha512-82xsopqCEwbIMvVS+54MBb2CVpH8Ur0SzfEQklVfuoJ5KdPGqn6wjw+UQMwnGNaD1gDK1VmJ/dK3ThrC7UBkGg==
 
 flush-write-stream@^1.0.0:
   version "1.1.1"
