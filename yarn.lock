@@ -5083,10 +5083,10 @@ flatten@^1.0.2:
   resolved "https://registry.yarnpkg.com/flatten/-/flatten-1.0.3.tgz#c1283ac9f27b368abc1e36d1ff7b04501a30356b"
   integrity sha512-dVsPA/UwQ8+2uoFe5GHtiBMu48dWLTdsuEd7CKGlZlD78r1TTWBvDuFaFGKCo/ZfEr95Uk56vZoX86OsHkUeIg==
 
-flexlayout-react@0.5.17:
-  version "0.5.17"
-  resolved "https://registry.yarnpkg.com/flexlayout-react/-/flexlayout-react-0.5.17.tgz#6de89ea5ab334e2b122f14233b6aed1a0d242f7a"
-  integrity sha512-mLYcoYPQWR8CTSuXxdkIF8xVldX8qTrkPg16CX3lnsbJMtpY/AS94OaXPoX3fi0NbcKm8qIKVqZQ6Ctvg3kkrg==
+flexlayout-react@0.5.19:
+  version "0.5.19"
+  resolved "https://registry.yarnpkg.com/flexlayout-react/-/flexlayout-react-0.5.19.tgz#29d95771173562506ad3735d7d18c5ceb745272b"
+  integrity sha512-pqfSzGSEzFFcPDvd+dYUaf9Wbxv4NRlJX6nVtZTsfBdw0fFkN5n3TioX7V1Om8Ycw/Pn0WQJDi7kDW7wJwzXGA==
   dependencies:
     uuid "^8.3.2"
 
