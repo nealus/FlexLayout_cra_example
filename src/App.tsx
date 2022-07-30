@@ -3,7 +3,7 @@ import './App.css';
 import 'flexlayout-react/style/light.css';
 
 var json : IJsonModel= {
-    global: {},
+    global: {"tabEnableFloat": true},
     borders: [],
     layout: {
         type: "row",
