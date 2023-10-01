@@ -1853,10 +1853,17 @@
   resolved "https://registry.yarnpkg.com/@types/range-parser/-/range-parser-1.2.4.tgz#cd667bcfdd025213aafb7ca5915a932590acdcdc"
   integrity sha512-EEhsLsD6UsDM1yFhAvy0Cjr6VwmpMWqFBCb9w07wVugF7w9nfajxLuVmngTIpgS6svCnm6Vaw+MZhoDCKnOfsw==
 
-"@types/react-dom@^18.0.0", "@types/react-dom@^18.0.1":
+"@types/react-dom@^18.0.0":
   version "18.0.1"
   resolved "https://registry.yarnpkg.com/@types/react-dom/-/react-dom-18.0.1.tgz#cb3cc10ea91141b12c71001fede1017acfbce4db"
   integrity sha512-jCwTXvHtRLiyVvKm9aEdHXs8rflVOGd5Sl913JZrPshfXjn8NYsTNZOz70bCsA31IR0TOqwi3ad+X4tSCBoMTw==
+  dependencies:
+    "@types/react" "*"
+
+"@types/react-dom@^18.0.1":
+  version "18.2.7"
+  resolved "https://registry.yarnpkg.com/@types/react-dom/-/react-dom-18.2.7.tgz#67222a08c0a6ae0a0da33c3532348277c70abb63"
+  integrity sha512-GRaAEriuT4zp9N4p1i8BDBYmEyfo+xQ3yHjJU4eiK5NDa1RmUZG+unZABUTK4/Ox/M+GaHwb6Ow8rUITrtjszA==
   dependencies:
     "@types/react" "*"
 
@@ -4252,10 +4259,10 @@ flatted@^3.1.0:
   resolved "https://registry.yarnpkg.com/flatted/-/flatted-3.2.5.tgz#76c8584f4fc843db64702a6bd04ab7a8bd666da3"
   integrity sha512-WIWGi2L3DyTUvUrwRKgGi9TwxQMUEqPOPQBVi71R96jZXJdFskXEmf54BoZaS1kknGODoIGASGEzBUYdyMCBJg==
 
-flexlayout-react@0.7.11:
-  version "0.7.11"
-  resolved "https://registry.yarnpkg.com/flexlayout-react/-/flexlayout-react-0.7.11.tgz#1c6b8827a7f2ee4a8c2309065fcc862f392a7719"
-  integrity sha512-EC8Q11WrZTuQy2iDS+DMBuu7rqHPnzy/HUGUPXgv9kxrbloZlcPWwty86gT9P2V+DvXRALY5tUo9j0nyxF+asg==
+flexlayout-react@0.7.12:
+  version "0.7.12"
+  resolved "https://registry.yarnpkg.com/flexlayout-react/-/flexlayout-react-0.7.12.tgz#0e2d6adde5008c3e176186aa8304677bab4eebaf"
+  integrity sha512-jETZFOu0ACYjrpyC9OMEUzRx6+BfQPLrvjMWzK3Updv7GtRaiRZ1VS1dmhQW+MrKVSAI53jLeJzt1AnddYXugg==
 
 follow-redirects@^1.0.0:
   version "1.14.9"
